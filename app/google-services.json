@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "527655719680",
+    "project_id": "engage-60dbc",
+    "storage_bucket": "engage-60dbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527655719680:android:9b230f777c0d73790a19e5",
+        "android_client_info": {
+          "package_name": "com.kerubyte.ecommerceone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527655719680-7rlv12micgjbqmq68p1bl2n9uo7ni7m8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kerubyte.ecommerceone",
+            "certificate_hash": "cbcb00f26ee7040be01a58e65bbac3b9ca776416"
+          }
+        },
+        {
+          "client_id": "527655719680-ck081mf0bg4hmrjqnp4s4ma8m4lsvrfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwEIzOdoyfw0f_I-jVN6pFFQZPD8czR-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527655719680-ck081mf0bg4hmrjqnp4s4ma8m4lsvrfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527655719680:android:cd85799e26409abb0a19e5",
+        "android_client_info": {
+          "package_name": "com.kerubyte.engage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527655719680-lc825gnb86nps0hhjn8j3702ajrioh23.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kerubyte.engage",
+            "certificate_hash": "cbcb00f26ee7040be01a58e65bbac3b9ca776416"
+          }
+        },
+        {
+          "client_id": "527655719680-ck081mf0bg4hmrjqnp4s4ma8m4lsvrfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwEIzOdoyfw0f_I-jVN6pFFQZPD8czR-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527655719680-ck081mf0bg4hmrjqnp4s4ma8m4lsvrfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527655719680:android:34c65a9c55dd725e0a19e5",
+        "android_client_info": {
+          "package_name": "com.kerubyte.jetcommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527655719680-ck081mf0bg4hmrjqnp4s4ma8m4lsvrfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwEIzOdoyfw0f_I-jVN6pFFQZPD8czR-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527655719680-ck081mf0bg4hmrjqnp4s4ma8m4lsvrfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
